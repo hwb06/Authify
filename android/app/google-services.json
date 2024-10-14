@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700222830069",
+    "project_id": "auth-eb0a2",
+    "storage_bucket": "auth-eb0a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700222830069:android:c373446a812b8ce7869cbc",
+        "android_client_info": {
+          "package_name": "com.example.authgoogle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSJQh3lt-lKivu_aVjsr1DFnkBIc3aKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
