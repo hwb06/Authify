@@ -6,6 +6,8 @@
 
 Features a clean, dark-themed UI with intuitive onboarding, seamless login/signup flows, password recovery, and multi-factor authentication support. Perfect for developers looking to implement robust user authentication in their applications.
 
+![App Cover](https://github.com/hwb06/Authify/blob/main/assets/images/App%20Cover.jpg)  
+
 ## ♥ Aᴜᴛʜɪғʏ: A comprehensive authentication app featuring:
 
 -  Multiple sign-in methods (Email, Phone, Google)
@@ -22,18 +24,14 @@ Features a clean, dark-themed UI with intuitive onboarding, seamless login/signu
 ### **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Welcome Screen #01](https://github.com/hwb06/Authify/blob/main/Ws1.PNG?raw=true)  
-![Welcome Screen #02](https://github.com/hwb06/Authify/blob/main/Ws2.PNG?raw=true)  
-![Welcome Screen #03](https://github.com/hwb06/Authify/blob/main/Ws3.PNG?raw=true)  
-![SignUp Screen](https://github.com/hwb06/Authify/blob/main/SignUp%20Screen.PNG?raw=true)  
-![Login Screen](https://github.com/hwb06/Authify/blob/main/loginScreen.PNG?raw=true)  
-![Forget Screen](https://github.com/hwb06/Authify/blob/main/ForgetScreen.PNG?raw=true)  
-![Phone Verification Screen](https://github.com/hwb06/Authify/blob/main/PhoneVerification.PNG?raw=true)  
-
+![#01](https://github.com/hwb06/Authify/blob/main/assets/images/01.png)  
+![#01](https://github.com/hwb06/Authify/blob/main/assets/images/02.png)  
+![#01](https://github.com/hwb06/Authify/blob/main/assets/images/03.png)  
+ 
 ### **App Demo**
 You can download and view the demo video of the app here:
 
-[Authify App Link](https://github.com/hwb06/Authify/releases/tag/v1.0)
+[Authify App Link]([https://github.com/hwb06/Authify/releases/tag/v1.0](https://www.dropbox.com/scl/fi/hno2r9bm1grmho0e7avhj/Authify-App-Demo.mp4?rlkey=yidqlz43y1doply3rjvpwrwhi&st=jtrvb88j&dl=0)
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
