@@ -20,7 +20,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
 
-    Timer(Duration(seconds: 6), () {
+    Timer(Duration(seconds: 12), () {
       Navigator.pushReplacement(context,
         MaterialPageRoute(builder: (context) => OnboardingScreen() ),
       );

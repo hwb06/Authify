@@ -1,3 +1,4 @@
+import 'package:Authify/theme_toggle_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -107,9 +108,9 @@ class _SigninScreenState extends State<SigninScreen> {
                             backgroundColor: Colors.green,
                             colorText: Colors.white,
                           );
-                          Get.offAll(() => WelcomeScreen());
+                          Get.offAll(() => ThemeToggleScreen());
                         } else {
-                          Get.offAll(() => WelcomeScreen());
+                          Get.offAll(() => ThemeToggleScreen());
                           Get.snackbar(
                             "Success User Login",
                             "login Successfully!",

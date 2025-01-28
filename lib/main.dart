@@ -32,14 +32,14 @@ class MyApp extends StatelessWidget {
         GetPage(name: '/onboarding', page: () => OnboardingScreen()),
         GetPage(name: '/phoneauth', page: () => PhoneAuthScreen()),
         GetPage(name: '/otp', page: () => OTPVerificationScreen()),
-        GetPage(name: '/welcome', page: () => WelcomeScreen()),
+        GetPage(name: '/themeToggle', page: () => ThemeToggleScreen()),
         GetPage(name: '/signin', page: () => SigninScreen()),
         GetPage(name: '/signup', page: () => SignupScreen()),
       ],
       debugShowCheckedModeBanner: false,
       title: 'Google Auth',
       theme: AppTheme.darkTheme(), // Using the custom dark theme
-      home: SplashScreen(),
+      home: SigninScreen(),
       builder: EasyLoading.init(),
     );
   }

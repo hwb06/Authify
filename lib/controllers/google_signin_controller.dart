@@ -7,6 +7,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:Authify/theme_toggle_screen.dart';
+
 
 class GoogleSignInController extends GetxController {
   final GoogleSignIn googleSignIn = GoogleSignIn();
@@ -50,7 +52,7 @@ class GoogleSignInController extends GetxController {
               .set(userModel.toMap());
 
           EasyLoading.dismiss();
-          Get.offAll(() => WelcomeScreen());
+          Get.offAll(() => ThemeToggleScreen());
         }
       }
     } catch (e) {

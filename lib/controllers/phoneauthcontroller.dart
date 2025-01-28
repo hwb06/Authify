@@ -58,7 +58,7 @@ class CustomPhoneAuthController extends GetxController {
       Get.snackbar('Error', 'Failed to verify phone number');
     }
   }
-
+  
   Future verifyOTP(String otp) async {
     if (verificationId.value.isEmpty || otp.isEmpty) {
       Get.snackbar('Error', 'Invalid OTP or verification session');
