@@ -6,7 +6,7 @@
 
 Features a clean, dark-themed UI with intuitive onboarding, seamless login/signup flows, password recovery, and multi-factor authentication support. Perfect for developers looking to implement robust user authentication in their applications.
 
-![App Cover](https://github.com/hwb06/Authify/blob/main/assets/images/App%20Cover.jpg)  
+![App Cover](https://github.com/hwb06/Authify/blob/main/assets/Project%20Showcase/App%20Cover.jpg)  
 
 ## ♥ Aᴜᴛʜɪғʏ: A comprehensive authentication app featuring:
 
@@ -24,9 +24,9 @@ Features a clean, dark-themed UI with intuitive onboarding, seamless login/signu
 ### **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![#01](https://github.com/hwb06/Authify/blob/main/assets/images/01.png)  
-![#01](https://github.com/hwb06/Authify/blob/main/assets/images/02.png)  
-![#01](https://github.com/hwb06/Authify/blob/main/assets/images/03.png)  
+![#01](https://github.com/hwb06/Authify/blob/main/assets/Project%20Showcase/01.png)  
+![#01](https://github.com/hwb06/Authify/blob/main/assets/Project%20Showcase/02.png)  
+![#01](https://github.com/hwb06/Authify/blob/main/assets/Project%20Showcase/03.png)  
  
 ### **App Demo**
 You can download and view the demo video of the app here:
